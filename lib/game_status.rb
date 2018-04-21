@@ -75,4 +75,3 @@ def over?(board)
 
 
 end
-
