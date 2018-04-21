@@ -60,4 +60,3 @@ def over?(board)
     winning_combination = won?(board)
       board[winning_combination.first]
     end
-  end
